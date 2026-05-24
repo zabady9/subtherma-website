@@ -7,7 +7,12 @@
       "Bash(git --version)",
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(gh repo *)",
+      "Bash(git -C \"/Users/mohamedzabady/myenv/mhana/subtherma website\" status)",
+      "Bash(git -C \"/Users/mohamedzabady/myenv/mhana/subtherma website\" diff --stat)",
+      "Bash(git -C \"/Users/mohamedzabady/myenv/mhana/subtherma website\" add index.html nav-logo.png .claude/settings.json)",
+      "Bash(git -C '/Users/mohamedzabady/myenv/mhana/subtherma website' commit -m ' *)"
     ]
   }
 }
